@@ -1,0 +1,49 @@
+.find-body-box {
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.find-body-box:hover {
+    background-color: rgb(226, 217, 217);
+    cursor:	pointer;
+}
+.navbar-box .find-body {
+    position: absolute;
+    top: 60px;
+    border: 1px solid rgb(226, 217, 217);
+    width: 198px;
+    border-radius: 8px;
+    z-index: 5;
+    background-color:white;
+}
+.navbar {
+    position: relative;
+}
+
+.box-content {
+    border: 1px solid rgb(226, 217, 217);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+h1:hover {
+    cursor:	pointer;
+}
+
+.films {
+    position: relative;
+}
+.preloader {
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
+
+.detalData {
+    border: 1px solid rgb(226, 217, 217);
+}
+.detalData span{
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
